@@ -1,0 +1,17 @@
+fp_arith_inst_retired.128b_packed_double
+fp_arith_inst_retired.128b_packed_single
+fp_arith_inst_retired.256b_packed_double
+fp_arith_inst_retired.256b_packed_single
+fp_arith_inst_retired.double
+fp_arith_inst_retired.packed
+fp_arith_inst_retired.scalar
+fp_arith_inst_retired.scalar_double
+fp_arith_inst_retired.scalar_single
+fp_arith_inst_retired.single
+fp_assist.any
+fp_assist.simd_input
+fp_assist.simd_output
+fp_assist.x87_input
+fp_assist.x87_output
+other_assists.avx_to_sse
+other_assists.sse_to_avx

@@ -1,0 +1,11 @@
+alignment-faults
+bpf-output
+context-switches
+cpu-clock
+cpu-migrations
+dummy
+emulation-faults
+major-faults
+minor-faults
+page-faults
+task-clock

@@ -1,0 +1,4 @@
+__pycache__/
+configs/selected_counters/*
+data/perf_output/*
+models/*
